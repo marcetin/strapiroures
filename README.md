@@ -1,0 +1,2 @@
+# strapiroures
+Strapi routes
